@@ -1,1 +1,1 @@
-print("Nuxvi was here wazaaa")
+print("Nuxvi was here wazaaaaa")
